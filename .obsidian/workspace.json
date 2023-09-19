@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "ab5744dd2cffb606",
+    "type": "split",
+    "children": [
+      {
+        "id": "911f041a4fbbcd35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc47ed2c3b6f1e5f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34a6b5f846fb273b",
+    "type": "split",
+    "children": [
+      {
+        "id": "056c7eb1792da474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84d2af1be5502960",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a551fab248d26505",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71fb7d6381716601",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "102e1146cf06feff",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dbf28e73711018f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f24eb21f552f6c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78c8dd74496dd2dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d65bd7af849a297",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "55df0036425f1d10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bc47ed2c3b6f1e5f",
+  "lastOpenFiles": [
+    "VLSI",
+    "TODO/Fall 2023/W1.md",
+    "TODO/Fall 2023",
+    "TODO",
+    "Software",
+    "NetworkEng",
+    "Hardware"
+  ]
+}
